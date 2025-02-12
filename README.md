@@ -143,4 +143,4 @@ This dashboard is designed for comprehensive data cleaning, visualization, and a
 ---
 
 ## Contact Information 📬
-For any questions or feedback regarding the dashboard, please contact silviacgil@gmail.com.
+For any questions or feedback regarding the dashboard, please contact kushagranigam550@gmail.com.
