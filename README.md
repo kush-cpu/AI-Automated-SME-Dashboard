@@ -1,7 +1,7 @@
 # AI ML Dashboard README 🚀
 
 ## Overview
-This dashboard is designed for comprehensive data cleaning, visualization, and analysis, tailored for users, especially beginners in data analysis. It incorporates an intuitive user interface, dynamic visualizations, and interactive analysis features to enhance user experience and understanding.
+This AI-powered dashboard is built specifically for Indian SMEs, offering a seamless solution for data cleaning, visualization, and analysis. Designed with an intuitive interface, it simplifies data-driven decision-making for business owners and non-technical users. The platform features dynamic visualizations and interactive analytics, enabling SMEs to gain actionable insights effortlessly. By streamlining complex data processes, this dashboard empowers businesses to make informed decisions, optimize operations, and drive growth.
 
 
 
