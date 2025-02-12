@@ -5,14 +5,14 @@ This dashboard is designed for comprehensive data cleaning, visualization, and a
 
 
 
-[AI ML Dashboard](https://aiautomateddashboard-nenkmx3cxqk6rvx3wztnv4.streamlit.app/)
+[AI ML Dashboard][https://ai-automated-sme-dashboard-n5mmyip9aaudjn6vvjvfm5.streamlit.app/#1-data-cleaning-2-data-visualization-3-data-analysis-4-data-prediction]
 
 ---
 
 ## Key Functionalities
 
 ### 1. Data Cleaning 🧹
-[Data Cleaning Dashboard](https://aiautomateddashboard-sskkctshybxvuvymnsnptl.streamlit.app/)
+[Data Cleaning Dashboard](https://ai-automated-sme-dashboard-n5mmyip9aaudjn6vvjvfm5.streamlit.app/#1-data-cleaning-2-data-visualization-3-data-analysis-4-data-prediction)
 
 - **Upload a Dataset**: Users can upload a CSV file for analysis. 📂
   
@@ -26,7 +26,7 @@ This dashboard is designed for comprehensive data cleaning, visualization, and a
 
 ### 2. Data Visualization 📊
 
-[Data Cleaning Dashboard](https://aiautomateddashboard-p3kcyuegh7wi58ah8tn7ob.streamlit.app/)
+[Data Cleaning Dashboard](https://ai-automated-sme-dashboard-n5mmyip9aaudjn6vvjvfm5.streamlit.app/#1-data-cleaning-2-data-visualization-3-data-analysis-4-data-prediction)
 - **Visualization Types**: Users can choose from various types of visualizations, including:
   - Histogram
   - Correlation Heatmap
@@ -48,7 +48,7 @@ This dashboard is designed for comprehensive data cleaning, visualization, and a
 
 ### 3. Data Analysis 📈
 
-[Data Cleaning Dashboard](https://aiautomateddashboard-7nx4omfbawfczaiaqhzggk.streamlit.app/)
+[Data Cleaning Dashboard](https://ai-automated-sme-dashboard-n5mmyip9aaudjn6vvjvfm5.streamlit.app/#1-data-cleaning-2-data-visualization-3-data-analysis-4-data-prediction)
 
 - **Predictive Analysis**: Users can apply different models (Linear Regression, SVM, Clustering) to the cleaned dataset. 🤖
 
